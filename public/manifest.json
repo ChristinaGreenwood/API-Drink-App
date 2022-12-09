@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Drink App",
+  "name": "react rendering using a api",
   "icons": [
     {
       "src": "favicon.ico",
